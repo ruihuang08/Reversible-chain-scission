@@ -5,6 +5,8 @@ Matlab scripts:
 
 barriers.m - calculated energy barriers for 5 cases
 
+Peq.m - calculating the equilibrium probability density functions
+
 rate_integrated.m - integrating the rate equation for a constant pulling rate
 
 KMC1.m - kinetic Monte Carlo simulation at a constant end-to-end distance
