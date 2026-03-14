@@ -9,6 +9,8 @@ Peq.m - calculating the equilibrium probability density functions
 
 rate_integrated.m - integrating the rate equation for a constant pulling rate
 
+means_rate.m - integrate the rate equation, and plot mean y and f versus the pulling rate
+
 KMC1.m - kinetic Monte Carlo simulation at a constant end-to-end distance
 
 histogram.m - run KMC simulations at a constant pulling rate, and create histograms.
